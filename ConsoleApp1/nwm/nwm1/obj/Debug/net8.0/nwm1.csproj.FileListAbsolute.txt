@@ -1,0 +1,14 @@
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\bin\Debug\net8.0\nwm1.exe
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\bin\Debug\net8.0\nwm1.deps.json
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\bin\Debug\net8.0\nwm1.runtimeconfig.json
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\bin\Debug\net8.0\nwm1.dll
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\bin\Debug\net8.0\nwm1.pdb
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.AssemblyInfoInputs.cache
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.AssemblyInfo.cs
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.csproj.CoreCompileInputs.cache
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.dll
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\refint\nwm1.dll
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.pdb
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\nwm1.genruntimeconfig.cache
+D:\projekty_c#\ConsoleApp1\nwm\nwm1\obj\Debug\net8.0\ref\nwm1.dll

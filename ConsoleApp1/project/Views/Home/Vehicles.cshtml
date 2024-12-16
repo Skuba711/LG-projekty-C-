@@ -1,0 +1,8 @@
+﻿@using ConsoleApp1.project.Models
+@model IEnumerable<Car>
+
+@foreach(var car in Model){  
+    <div>Marka: @car.Brand</div>
+    <div>Model: @car.Model</div>
+    <div>MaxPrędkość: @car.MaxSpeed kmph</div>
+}
